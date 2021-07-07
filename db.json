@@ -1,0 +1,267 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "writer@mail.com",
+      "password": 123456,
+      "role": "writer"
+    },
+    {
+      "id": 2,
+      "login": "reader@mail.com",
+      "password": 123456,
+      "role": "reader"
+    },
+    {
+      "id": 3,
+      "login": "writer2@mail.com",
+      "password": 123456,
+      "role": "writer"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Название поста11",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 5,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2021-07-07T08:23:15.909Z",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 4,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 1,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 4,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 3
+    },
+    {
+      "id": 6,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 3
+    },
+    {
+      "id": 7,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 3
+    },
+    {
+      "id": 8,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 9,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 10,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 11,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 12,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 13,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 14,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 15,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 16,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 17,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 18,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 19,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 20,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 21,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 22,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 23,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 24,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 25,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 26,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "id": 27,
+      "title": "Название поста",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aspernatur adipisci labore, autem consequatur optio porro vero, asperiores est eum non illo quis perferendis dolor, blanditiis itaque. In, voluptatem omnis.",
+      "claps": 0,
+      "createdAt": "2019-09-29T00:00:00.000Z",
+      "updateAt": "2019-09-29T00:00:00.000Z",
+      "userId": 1
+    },
+    {
+      "title": "Новый пост",
+      "description": "Тескт нового поста",
+      "claps": 0,
+      "createdAt": "2021-07-07T09:52:28.797Z",
+      "updateAt": "2021-07-07T09:52:28.797Z",
+      "userId": 3,
+      "id": 28
+    }
+  ]
+}
